@@ -8,4 +8,4 @@ while i <= N:
     j +=2
     a.append(j)
 print(a)
-print("Salom Gandon")
+print("Salom Dunyo")
