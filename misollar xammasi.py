@@ -200,3 +200,4 @@ class shart:
 # shart.misol13(3)
 # shart.misol14(5,5,5)
 # shart.misol15(10)
+print(QQ)
