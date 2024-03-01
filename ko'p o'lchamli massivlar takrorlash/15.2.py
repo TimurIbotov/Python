@@ -1,5 +1,4 @@
 import random
-n = int(float('n =')) 
 M = int(input("M ="))
 N = int(input("N ="))
 A = []
