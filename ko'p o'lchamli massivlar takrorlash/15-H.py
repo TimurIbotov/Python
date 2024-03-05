@@ -7,3 +7,4 @@ for i in range(1,N+1):
         else:
             a.append(0)
     print(a)
+("Hello world")
